@@ -26,6 +26,7 @@ D.
   8. Continue or End: After each round of combat, you'll be prompted to press ENTER to continue to the next round or end the simulation if your hero's health points reach zero or all monsters are defeated.
 
    9. End of Game: Once the battle simulation ends, the program will display a message indicating whether your hero has won by defeating all monsters or if your hero has been defeated
-E. I believe everything should work
-f.
 
+E. I believe everything should work
+
+F.https://github.com/Olithegreat123/Assignment7Owilliams.git
